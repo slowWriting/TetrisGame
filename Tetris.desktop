@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Name=Tetris
+Icon=/usr/share/icons/hicolor/90x90/apps/Tetris.png
+Exec=Tetris
+
